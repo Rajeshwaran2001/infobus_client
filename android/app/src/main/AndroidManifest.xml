@@ -2,7 +2,7 @@
     package="com.example.infobus_client">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="infobus_client"
+        android:label="Infobus Customer"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
